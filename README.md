@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyapal001&label=Profile%20views&color=0e75b6&style=flat" alt="priyapal001" /> </p>
 
-- 🌱 I’m currently learning **Svelte Js**
+- 🌱 I’m currently learning **NextJS, Svelte Js**
 
 - 👯 I’m looking to collaborate on **Svelte-kit projects**
 
